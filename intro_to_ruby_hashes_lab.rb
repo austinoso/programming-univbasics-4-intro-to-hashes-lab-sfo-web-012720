@@ -1,13 +1,13 @@
 def new_hash
-  new_hash = {}
+  hash = {}
 end
 
 def my_hash
-  my_hash = { name: "Austin" }
+  hash = { name: "Austin" }
 end
 
 def pioneer
-  # return a hash with a key of :name and a corresponding value of 'Grace Hopper'
+  hash = { name: "Grace Hopper"}
 end
 
 def id_generator
